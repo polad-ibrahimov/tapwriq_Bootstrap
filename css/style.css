@@ -1,0 +1,29 @@
+.head .navbar-default{
+    background: #222;
+}
+
+.head .navbar{
+    margin-bottom: 0;
+
+}
+
+.head .btn-default{
+    background: #5cb85c;
+    color: #fff;
+}
+
+.second .btn-default{
+    background: #428bca;
+    color: #fff;
+}
+
+.third p{
+    line-height: 1.6;
+    padding-top:10px;
+    padding-bottom: 15px; 
+}
+
+#form {
+    float: right;
+    margin-top: 7px;
+}
